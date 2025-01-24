@@ -7,4 +7,4 @@
 
 *Baixe os arquivos 'clientes.csv' e 'novos_clientes.csv', abra seu jupyter notebook e em seguida abra o arquivo 'Python (machine learning aprendendo score de crédito) .ipynb'*
 **certifique-se de que tanto o arquivo 'Python (machine learning aprendendo score de crédito) .ipynb' quanto
-os csvs 'clientes.csv' e 'novos_clientes.csv' estejam todos na mesma pasta, para evitar erros**
+os csvs 'clientes.csv' e 'novos_clientes.csv' estejam todos na mesma pasta, para evitar erros !!!**
